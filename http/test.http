@@ -16,3 +16,10 @@ POST http://localhost:8881/hello/post
 Content-Type: application/x-www-form-urlencoded
 
 name=TEST
+
+
+###
+
+GET http://localhost:8881/test/list
+
+####
