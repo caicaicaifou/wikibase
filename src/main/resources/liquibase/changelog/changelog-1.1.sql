@@ -1,5 +1,5 @@
 --liquibase formatted sql
---changeset Aki:1
+--changeset Aki:1.1
 
 DROP TABLE
 IF

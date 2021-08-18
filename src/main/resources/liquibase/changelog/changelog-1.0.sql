@@ -1,5 +1,5 @@
 --liquibase formatted sql
---changeset Aki:1
+--changeset Aki:1.0
 
 drop table if exists `test`;
 create table `test` (
